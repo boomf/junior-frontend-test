@@ -2,6 +2,8 @@
 
 This is a test that a potential junior front end developer has to solve. There is no right answer although. 
 
+![](https://github.com/boomf/junior-frontend-test/blob/master/screenshot.png?raw=true)
+
 ## Instructions
 
 This is simple Ecommerce list page (you can find Figma file in repository or here https://www.figma.com/file/P2pRCndsUqEizT6cLJJWF5/Ecommerce)
